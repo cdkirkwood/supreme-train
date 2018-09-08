@@ -1,0 +1,13 @@
+.link {
+  color: gray
+}
+
+.selected {
+  color: #483D8B
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
